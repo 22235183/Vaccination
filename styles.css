@@ -1,0 +1,26 @@
+html,body{margin:0;padding:0}
+body{font: 76% arial,sans-serif}
+p{margin:0 10px 10px}
+a{padding:5px; }
+
+div#header{background-color:#a4c2f3;}
+div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px;}
+div#header{text-align:center}
+
+div#container{text-align:left}
+div#container{width:700px;margin:0 auto}
+div#container{margin:0 10px 10px; padding:5px;}
+
+div#navigation{background:#8a98c3;}
+div#navigation{float:left;width:670px}
+div#navigation{text-align:left}
+div#navigation{padding:30px;}
+
+div#extra{background:#a8c1e1;}
+div#extra{float:right;width:670px}
+div#extra{text-align:left}
+div#extra{padding:30px;}
+
+div#footer{clear:both;width:100%}
+div#footer{background:#dce5f7;}
+div#footer p{margin:0;padding:5px 10px}
